@@ -27,7 +27,7 @@ Users should be able to:
 
 ### Links
 
-- : [Solution URL](https://www.frontendmentor.io/solutions/responsive-blog-preview-card-1nDw7LFD2v)
+-  [Solution URL](https://www.frontendmentor.io/solutions/responsive-blog-preview-card-1nDw7LFD2v)
 -  [Live Site URL:](https://amiraxhamza.github.io/--Frontend-Mentor---Blog-preview-card-solution/)
 
 ### Continued development
